@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f19e877-f0bb-4859-a601-84f21abb41f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="4f19e877-f0bb-4859-a601-84f21abb41f9" name="Changes" comment="Skapade projektfilen.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +38,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701680610355</updated>
-      <workItem from="1701680611512" duration="44000" />
+      <workItem from="1701680611512" duration="308000" />
     </task>
+    <task id="LOCAL−00001" summary="Skapade projektfilen.">
+      <option name="closed" value="true" />
+      <created>1701680733265</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1701680733266</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Skapade projektfilen.">
+      <option name="closed" value="true" />
+      <created>1701680910304</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1701680910304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Skapade projektfilen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Skapade projektfilen." />
   </component>
 </project>
